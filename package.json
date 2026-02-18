@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "@hono/node-server": "^1.13.7",
-    "@lucid-agents/core": "^2.4.1",
-    "@lucid-agents/http": "^1.10.0",
+    "@lucid-agents/core": "^2.5.0",
+    "@lucid-agents/http": "^1.10.2",
     "@x402/core": "^2.2.0",
     "@x402/evm": "^2.2.0",
     "@x402/hono": "^2.2.0",
